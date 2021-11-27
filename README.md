@@ -8,7 +8,7 @@
 - Photos
   - unsplash.com
             
-02 Quiz Web App
+02 Quiz App
 - Questions
 - Answers
 - Show Score
